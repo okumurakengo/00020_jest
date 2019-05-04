@@ -8,13 +8,17 @@
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
     "axios": "^0.18.0",
     "babel-jest": "^24.7.1",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.2.0",
     "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.13.0",
     "jest": "^24.7.1",
     "prettier": "^1.17.0",
+    "react": "^16.8.6",
+    "react-test-renderer": "^16.8.6",
     "typescript": "^3.4.5"
   },
   "scripts": {
