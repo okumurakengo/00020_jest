@@ -1,4 +1,4 @@
-```
+```bash
 yarn
 yarn run jest  # テスト
 yarn run eslint . --fix # 整形
