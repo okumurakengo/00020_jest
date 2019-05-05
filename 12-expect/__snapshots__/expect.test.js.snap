@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toMatchSnapshot sample 1`] = `[MockFunction add42]`;
+
+exports[`toThrowErrorMatchingSnapshot sample 1`] = `"hogehoge"`;
